@@ -1,0 +1,15 @@
+*~
+*.aux
+*.csv
+*.sas7bdat
+*.json
+*.toc
+*.bbl
+*.blg
+*.log
+.Rhistory
+*.Rproj
+.Rdata
+*.tex
+figure/*
+
